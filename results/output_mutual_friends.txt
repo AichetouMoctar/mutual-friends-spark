@@ -1,0 +1,6 @@
+1<Sidi>2<Mohamed>3
+1<Sidi>3<Ahmed>2,4
+1<Sidi>4<Fatou>3
+2<Mohamed>3<Ahmed>1
+2<Mohamed>5<Leila>Aucun
+3<Ahmed>4<Fatou>1
